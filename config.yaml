@@ -1,0 +1,12 @@
+
+path: '/content/gdrive/MyDrive/Daigaku no Fairu/Purojekuto/Project AI x Computer Vision in IoT/KonpyuutaBishonPurojekuto/data'  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: instant_noodle
+  1: sauce
+  2: ice_cream
+  3: syrup
+  4: soda
